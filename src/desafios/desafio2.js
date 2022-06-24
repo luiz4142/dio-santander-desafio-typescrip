@@ -1,5 +1,6 @@
 // Como podemos melhorar o esse código usando TS? 
 
+
 let pessoa1 = {};
 pessoa1.nome = "maria";
 pessoa1.idade = 29;
@@ -15,9 +16,9 @@ let pessoa3 = {
     idade: "32",
     profissao: "Atriz"
 };
-
+/*
 let pessoa4 = {
     nome = "carlos",
     idade = 19,
     profissao = "padeiro"
-}
+}*/
